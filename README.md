@@ -29,4 +29,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mukundsolanki&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![Snake animation](https://github.com/mukundsolanki/mukundsolanki/blob/output/github-contribution-grid-snake.svg)
+<!----![Snake animation](https://github.com/mukundsolanki/mukundsolanki/blob/output/github-contribution-grid-snake.svg)--->
