@@ -16,15 +16,15 @@
 
 - 📫 How to reach me **mukundsolanki665@gmail.com**
  
-- 💬   Ask me about anything <a href="https://github.com/mukundsolanki/mukundsolanki/mukundsolanki">Here</a>
+- 💬   Ask me about anything <a href="https://github.com/mukundsolanki/mukundsolanki/issues">Here</a>
 
 
 # 🌐 Socials:
 <p align="left">
+<a href="https://www.mukund4s.live/"><img src="https://img.shields.io/badge/website-ffff?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"></a>
 <a target="_blank"href="https://www.linkedin.com/in/mukund-solanki-10a558250/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a target="_blank"href="https://twitter.com/Mukund_solanki_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="mailto:mukundsolanki665@gmail.com?subject=Hello%20Mukund,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
- <a href="https:www.mukundsolanki.repl.co"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"></a>
 </p>
 
 # <p align="center">💻 Tech Stack</p>
