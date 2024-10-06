@@ -6,7 +6,7 @@
 
 # 👨‍💻About me:
 
-- 🔭 Currently diving deep into Spftware Development.
+- 🔭 Currently diving deep into Software Development.
 
 - 🤝 Open to collaborations on exciting Android Projects. Let's build something awesome together!
 
