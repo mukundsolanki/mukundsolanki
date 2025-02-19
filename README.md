@@ -1,6 +1,6 @@
 ![8 BIT MARIO GIF](https://github.com/mukundsolanki/mukundsolanki/assets/114515612/ef52c440-e0be-4158-912f-dfde6f85dde5)
 
-
+[![wakatime](https://wakatime.com/badge/user/d4f21e3d-6c5a-4463-b163-cc751fd58542.svg)](https://wakatime.com/@d4f21e3d-6c5a-4463-b163-cc751fd58542)
 <h1 align="center">Hey there! 👋 I'm Mukund Solanki</h1> 
 <h3 align="center">A Passionate Software & Web Developer from India 🚀</h3>
 
@@ -8,7 +8,7 @@
 
 - 🔭 Currently diving deep into Software Development.
 
-- 🤝 Open to collaborations on exciting Android Projects. Let's build something awesome together!
+- 🤝 Open to collaborations on exciting Projects. Let's build something awesome together!
 
 - 💡 I'm always exploring new tools, frameworks, and trends. If it involves code, I'm interested.
 
